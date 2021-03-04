@@ -1,3 +1,6 @@
+### Github link VAVA
+https://github.com/miroslav-reiter/VAVA-JAVA
+
 ### Java documentation
 https://docs.oracle.com/en/java/javase/index.html
 
@@ -56,6 +59,8 @@ https://docs.oracle.com/en/java/javase/index.html
 - new | Swing UI DEsigner | Create GUI Form | urcite create bound class
 - nahadzat veci do formularu
 - v triede alt+insert -> zrobi form spustitelny
+
+
 - clean and build -> jar aplikacia v netbeans
   - v intellij: - NEVIM CI FUNGUJE
   - https://www.jetbrains.com/help/idea/compiling-applications.html#run_packaged_jar
