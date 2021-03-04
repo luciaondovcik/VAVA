@@ -76,10 +76,11 @@ __VSETKY TIETO SRACKY CO SU TU POD UPOZORNENIM SA ANI NEOPLATI RIESIT, JFORMDESI
   - resizable
 
 ---
-Actions
-object object = new object();
-object.setVisible(True)
-default close operation - dispose
+### Actions pri GUI
+zatial len takto zmatocne<br>
+object object = new object();<br>
+object.setVisible(True)<br>
+default close operation - dispose<br>
 
 ---
 
