@@ -64,8 +64,8 @@ https://docs.oracle.com/en/java/javase/index.html
 - nahadzat veci do formularu
 - v triede alt+insert -> zrobi form spustitelny
 
-__VSETKY TIETO SRACKY CO SU TU SA ANI NEOPLATI RIESIT, JFORMDESIGNER JE NA LICENCIU LEN NA 20 DNI, TRIAL NA 30, INAK PREDPLATIT. ZVAZ SVOJE PSYCHICKE ROZPOLOZENIE PROSIM__
-- KDE JE CODE CUSTOMIZER
+__VSETKY TIETO SRACKY CO SU TU POD UPOZORNENIM SA ANI NEOPLATI RIESIT, JFORMDESIGNER JE NA LICENCIU LEN NA 20 DNI, TRIAL NA 30, INAK PREDPLATIT. ZVAZ SVOJE PSYCHICKE ROZPOLOZENIE PROSIM__
+- KDE JE CODE CUSTOMIZER??
 - project settings | plugins | install jFromDesigner
 - menu bar?? - cez hovnovy plugin
   - accelerator na klavesove skratky
@@ -80,6 +80,9 @@ Actions
 object object = new object();
 object.setVisible(True)
 default close operation - dispose
+
+---
+
 
 - clean and build -> jar aplikacia v netbeans
   - v intellij: - NEVIM CI FUNGUJE
