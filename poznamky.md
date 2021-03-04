@@ -26,6 +26,7 @@ https://docs.oracle.com/en/java/javase/index.html
 | ctrl + click         | open documentation            |
 | shift + f6           | refactor -> rename            |
 | ctrl + H             | browse type hierarchy         |
+| /** + enter          | documentation                 |
 
 
 - platform manager intellij - File | Project Structure | Platform Settings | SDKs
@@ -42,6 +43,8 @@ https://docs.oracle.com/en/java/javase/index.html
   - Add unambiguous imports on the fly
   - Optimize imports on the fly
 - navigator v intellij <br> ![navigator intellij](images/navigator-intellij.png)
+- main menu Refactor | Encapsulate fields
+- main menu Tools | Generate Javadoc
 
 
 ### Principy dzavy
@@ -52,6 +55,7 @@ https://docs.oracle.com/en/java/javase/index.html
 - assert false - nepusti dalej v kode
   - na testy dobre, treba enableovat
   - asercia by defalut blokovana
+- pekne zatvaranie javy System.exit(0)
 
 
 ### GUI v intellij jak netbeans
@@ -60,6 +64,22 @@ https://docs.oracle.com/en/java/javase/index.html
 - nahadzat veci do formularu
 - v triede alt+insert -> zrobi form spustitelny
 
+__VSETKY TIETO SRACKY CO SU TU SA ANI NEOPLATI RIESIT, JFORMDESIGNER JE NA LICENCIU LEN NA 20 DNI, TRIAL NA 30, INAK PREDPLATIT. ZVAZ SVOJE PSYCHICKE ROZPOLOZENIE PROSIM__
+- KDE JE CODE CUSTOMIZER
+- project settings | plugins | install jFromDesigner
+- menu bar?? - cez hovnovy plugin
+  - accelerator na klavesove skratky
+  - events
+- text properties - zaujimavosti pri editovani
+  - text/line wrap
+  - editable vypnut
+  - resizable
+
+---
+Actions
+object object = new object();
+object.setVisible(True)
+default close operation - dispose
 
 - clean and build -> jar aplikacia v netbeans
   - v intellij: - NEVIM CI FUNGUJE
